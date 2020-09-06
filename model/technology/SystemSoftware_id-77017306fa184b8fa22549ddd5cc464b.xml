@@ -1,4 +1,14 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Azure Active Directory"
-    id="id-77017306fa184b8fa22549ddd5cc464b"/>
+    id="id-77017306fa184b8fa22549ddd5cc464b">
+  <properties
+      key="Security Service"
+      value="Entity Security Services"/>
+  <properties
+      key="Defensive Strategy"
+      value="Prevention"/>
+  <properties
+      key="CSA Capability Domain"
+      value="User Directory Services;Identity Management;Authentication Services;Authorization Services"/>
+</archimate:SystemSoftware>

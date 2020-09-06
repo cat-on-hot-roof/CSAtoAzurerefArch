@@ -1,4 +1,15 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MiM PAM"
-    id="id-ba83ba81ea764eb1ab65629184361a54"/>
+    id="id-ba83ba81ea764eb1ab65629184361a54"
+    documentation="https://docs.microsoft.com/en-us/microsoft-identity-manager/pam/privileged-identity-management-for-active-directory-domain-services&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Pam for MIM">
+  <properties
+      key="Defensive Strategy"
+      value="Prevention;Detection &amp; Notification;Containment"/>
+  <properties
+      key="Security Service"
+      value="Entity Security Services"/>
+  <properties
+      key="CSA Capability Domain"
+      value="Priviledge Usage Management"/>
+</archimate:TechnologyService>

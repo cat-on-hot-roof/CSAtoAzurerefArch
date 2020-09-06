@@ -1,4 +1,18 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Azure Identity Protection"
-    id="id-6b8a0a3d84114be380caac2ecfd490d8"/>
+    id="id-6b8a0a3d84114be380caac2ecfd490d8"
+    documentation="https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Defensive Strategy"
+      value="Prevention;Detection &amp; Notification;Containment"/>
+  <properties
+      key="Security Service"
+      value="Entity Security Services"/>
+  <properties
+      key="CSA Capability Domain"
+      value="Authentication Services"/>
+  <properties
+      key="Azure License"
+      value="P2"/>
+</archimate:TechnologyService>

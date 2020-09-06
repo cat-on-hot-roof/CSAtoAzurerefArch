@@ -1,4 +1,14 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Conditiona Access Managementl"
-    id="id-a639c35af6874a8abc3ce37ba2b0f63c"/>
+    name="Conditional Access Managementl"
+    id="id-a639c35af6874a8abc3ce37ba2b0f63c">
+  <properties
+      key="Security Service"
+      value="Entity Security Services"/>
+  <properties
+      key="Defensive Strategy"
+      value="Prevention"/>
+  <properties
+      key="CSA Capability Domain"
+      value="Authentication Services"/>
+</archimate:TechnologyService>

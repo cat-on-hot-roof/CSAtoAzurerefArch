@@ -1,6 +1,18 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Azure AD PIM"
-    id="id-e7bdff4c944e409988317ea21aff7249">
-  <properties/>
+    id="id-e7bdff4c944e409988317ea21aff7249"
+    documentation="https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure&#xD;&#xA;">
+  <properties
+      key="Security Service"
+      value="Entity Security Services"/>
+  <properties
+      key="Defensive Strategy"
+      value="Prevention;Detection &amp; Notification;Containment"/>
+  <properties
+      key="CSA Capability Domain"
+      value="Priviledge Usage Management"/>
+  <properties
+      key="Azure License"
+      value="P2"/>
 </archimate:TechnologyService>

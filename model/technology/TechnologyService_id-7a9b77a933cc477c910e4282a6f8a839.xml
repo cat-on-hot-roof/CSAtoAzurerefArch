@@ -1,4 +1,15 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hello for Business"
-    id="id-7a9b77a933cc477c910e4282a6f8a839"/>
+    id="id-7a9b77a933cc477c910e4282a6f8a839"
+    documentation="https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-identity-verification">
+  <properties
+      key="Security Service"
+      value="Entity Security Services"/>
+  <properties
+      key="CSA Capability Domain"
+      value="Authentication Services"/>
+  <properties
+      key="Defensive Strategy"
+      value="Prevention"/>
+</archimate:TechnologyService>

@@ -1,4 +1,15 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Multi-factor Authentication"
-    id="id-b5327fe33a3a457480e8ebe57b349ea5"/>
+    id="id-b5327fe33a3a457480e8ebe57b349ea5"
+    documentation="https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks#:~:text=Multi%2Dfactor%20authentication%20is%20a,to%20provide%20a%20fingerprint%20scan.&amp;text=Something%20you%20have%2C%20such%20as,a%20phone%20or%20hardware%20key.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Microsoft Authenticator app&#xD;&#xA;OATH Hardware token&#xD;&#xA;SMS&#xD;&#xA;Voice call&#xD;&#xA;How to">
+  <properties
+      key="Defensive Strategy"
+      value="Prevention"/>
+  <properties
+      key="Security Service"
+      value="Entity Security Services"/>
+  <properties
+      key="CSA Capability Domain"
+      value="Authentication Services"/>
+</archimate:TechnologyService>

@@ -1,4 +1,14 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Azure AD B2C"
-    id="id-dec2ff8582a5480186ba7479f28f3aab"/>
+    id="id-dec2ff8582a5480186ba7479f28f3aab">
+  <properties
+      key="Security Service"
+      value="Entity Security Services"/>
+  <properties
+      key="Defensive Strategy"
+      value="Prevention"/>
+  <properties
+      key="CSA Capability Domain"
+      value="User Directory Services;Identity Management;Authentication Services;Authorization Services;consumers"/>
+</archimate:TechnologyService>
