@@ -683,7 +683,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-689fc7f4653041528aaceed8546a3a86"
           targetConnections="id-feaac84d7ccb43b5a81f9108da7a03c3"
-          textAlignment="1">
+          textAlignment="1"
+          fillColor="#408080">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-063b419eed864894a5404b2b31c119c9"
@@ -1312,10 +1313,10 @@
         id="id-e68b107fa682496f87fc7e808df61b5a"
         targetConnections="id-99d35b7e4bf0469394801869429dbe19">
       <bounds
-          x="731"
-          y="696"
-          width="120"
-          height="55"/>
+          x="687"
+          y="780"
+          width="205"
+          height="73"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
           href="TechnologyService_id-8e6fe16b08ca4cae93ef5835766e5c87.xml#id-8e6fe16b08ca4cae93ef5835766e5c87"/>

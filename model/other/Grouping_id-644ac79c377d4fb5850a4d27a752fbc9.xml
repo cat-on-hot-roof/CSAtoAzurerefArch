@@ -1,4 +1,15 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Azure Information Protection(AIP)"
-    id="id-644ac79c377d4fb5850a4d27a752fbc9"/>
+    id="id-644ac79c377d4fb5850a4d27a752fbc9"
+    documentation="https://docs.microsoft.com/en-us/azure/information-protection/what-is-information-protection">
+  <properties
+      key="Security Service"
+      value="Communication Security Service"/>
+  <properties
+      key="Defensive Strategy"
+      value="Prevention;Detection &amp; Notification;Containment"/>
+  <properties
+      key="CSA Capability Domain"
+      value="Data Loss Prevention;Intellectual Property Protection"/>
+</archimate:Grouping>

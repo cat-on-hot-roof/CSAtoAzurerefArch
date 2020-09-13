@@ -1,4 +1,14 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Azure SQL Threat Detection"
-    id="id-1cc16a7a4d714e799c14d8182a9b01d3"/>
+    id="id-1cc16a7a4d714e799c14d8182a9b01d3"
+    documentation="https://docs.microsoft.com/en-us/azure/azure-sql/database/threat-detection-overview">
+  <properties
+      key="Security Service"
+      value="Stored Data Confidentiality;Stored Data Integirty Protection"/>
+  <properties
+      key="Defensive Strategy"
+      value="Assurance;Detection &amp; Notification;Preventation"/>
+  <properties
+      key="CSA Capability Domain"/>
+</archimate:TechnologyService>

@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Loss Protection"
-    id="id-dc5d4a868d8e4160a54ef280e5844ffb"/>
+    id="id-dc5d4a868d8e4160a54ef280e5844ffb"
+    documentation="https://docs.microsoft.com/en-us/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide"/>

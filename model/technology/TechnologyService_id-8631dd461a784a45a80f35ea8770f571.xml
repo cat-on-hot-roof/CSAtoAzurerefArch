@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cloud App Security"
     id="id-8631dd461a784a45a80f35ea8770f571"
-    documentation="https://docs.microsoft.com/en-us/cloud-app-security/what-is-cloud-app-security"/>
+    documentation="https://docs.microsoft.com/en-us/cloud-app-security/what-is-cloud-app-security">
+  <properties
+      key="Security Service"
+      value="Communication Security Service"/>
+  <properties
+      key="Defensive Strategy"
+      value="Prevention;Detection &amp; Notification;Containment"/>
+  <properties
+      key="CSA Capability Domain"
+      value="Data Loss Prevention;Intellectual Property Protection"/>
+</archimate:TechnologyService>
